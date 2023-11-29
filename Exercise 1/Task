@@ -1,0 +1,6 @@
+The aim of this exercise is to use ROOT to analyse purchase operations from an imaginary pumpkin mar-
+ket. Each data entry corresponds to a transaction between the shop and a farmer who sells his pumpkins
+(each farmer performs only one transaction). Some farmers have bigger farms, others have smaller farms
+– each one brings a different number of pumpkins (n). There are five different types of pumpkins: orange,
+green, yellow, red and white distinguished by the variable color equal 0, 1, 2, 3 and 4, respectively. Finally,
+every pumpkin has a weight stored in a variable called mass [kg].
