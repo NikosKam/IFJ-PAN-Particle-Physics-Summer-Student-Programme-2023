@@ -1,0 +1,3 @@
+The aim of this exercise is to perform a typical analysis in particle physics: having a model of signal and
+background (in the form of generated ”Monte Carlo” events – MC samples), figure out a selection criteria
+that can be applied on data events to suppress the background contribution.
