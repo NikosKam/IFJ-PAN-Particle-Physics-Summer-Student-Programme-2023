@@ -1,0 +1,27 @@
+##Identification of b-jets produced in heavy-ion collisions with neural network(s)
+#Supervisor: dr Dominik Derendarz
+#The ATLAS Experiment Department (NZ14), Dominik.Derendarz@ifj.edu.pl
+
+
+Heavy-ion collisions at the LHC provide a unique opportunity for the study of the matter at the extreme
+conditions. For the brief moment after collision of two lead nuclei their constituents form a system with very
+high temperature and energy density. These conditions allow for the phase transition to the quark-gluon plasma
+(QGP) state which then cools down and goes back to the hadronic matter state that we can observe in the
+detector. Independently of the QGP formation, the hard scattering of quarks or gluons is very likely to happen
+in the heavy-ion collision. The products of this hard interaction will then evolve in the presence of the QGP
+medium that will typically lead to reduction of their initial energy. The details of the energy loss mechanism is
+one of the most interesting open questions in the heavy ion physics field right now.
+
+
+To address this question our group in the ATLAS experiment department is working on the measurement of
+the productions of b-jets, i.e. the collimated group of particles originating from a single parton, in this case
+a b-quark. The hadronization of a b quark within a jet produces a b-hadron which propagates a measurable
+distance before decaying and makes it possible to distinguish from the other jets that are produced close to
+the interaction region. To identify b-jets we use a deep feed-forward neural network that takes as an input the
+properties of the secondary vertices and impact parameter of tracks found within a jet.
+
+
+During this project we will be using MC simulation of ATLAS response to train the neural network to recognise
+b-jets and investigate some of the network properties like, inputs discriminating power and their correlations,
+how the details of the network architecture impacts its final performance. Finally we can have a look at the
+real data recorded by ATLAS during 2018 and select some b-jets.
